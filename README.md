@@ -33,7 +33,7 @@ Login SignUp App SwiftUI
 ## ScreenShots
 
 <p>
-<img style="width:200px;height:400px;" src='https://user-images.githubusercontent.com/73632576/130104569-55dbce69-c0af-45d0-8011-4bfaa357b405.png'/>
-  <img style="width:200px;height:400px;" src='https://user-images.githubusercontent.com/73632576/130104583-9b03be72-1197-4ec3-850a-f6801f988e09.png'/>
+<img width="200px" height="400px" src='https://user-images.githubusercontent.com/73632576/130104569-55dbce69-c0af-45d0-8011-4bfaa357b405.png'/>
+  <img width="200px" height="400px" src='https://user-images.githubusercontent.com/73632576/130104583-9b03be72-1197-4ec3-850a-f6801f988e09.png'/>
 </p>
 
